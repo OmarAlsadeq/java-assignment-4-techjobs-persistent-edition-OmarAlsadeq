@@ -1,6 +1,6 @@
 package org.launchcode.techjobs.persistent.models;
 
-import org.springframework.boot.autoconfigure.domain.EntityScan;
+
 
 import javax.persistence.*;
 
